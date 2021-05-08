@@ -1,3 +1,6 @@
+# Tidecoin's signature algorithm
+Tidecoin replace ECC with the signature scheme Falcon. The lib can be used to create keys, signature msg, verify signatures.
+
 # falcon.py
 
 This repository implements the signature scheme Falcon (https://falcon-sign.info/).
